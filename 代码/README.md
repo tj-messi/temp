@@ -1,5 +1,6 @@
 ## 代码架构
 
+、、、
 code
   CLAP
   Flamingo2
@@ -19,7 +20,7 @@ model
   CLAP
   Flamingo2
   Qwen2audio 
-
+、、、
 
 ## 数据准备
 
@@ -58,6 +59,9 @@ python code/Flamingo2/train.py
 ## 实验结果
 
 | Model     | Result (ACC) |
+
 | CLAP      |    86.6      |
+
 | Qwen2     |    87.6      |
+
 | Flamingo2 |    85.4      |
